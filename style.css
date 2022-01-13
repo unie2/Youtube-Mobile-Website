@@ -131,6 +131,7 @@ body > .info {
     flex-direction: column;
     font-size: var(--font-small);
     color: var(--grey-dark-color);
+    background-color: var(--white-color);
 }
 
 .info .actions button i {
